@@ -14,3 +14,5 @@
 - [S3 as target for database migrations using DMS](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.S3.html)
 - [AWS Well Architected Framework - Data Analytics Lens](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/analytics-lens.html)
 - [Hadoop Yarn Node/Resource-Manager architecture](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html)
+- [EMR on EKS](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html)
+- [Spot instance advisor](https://aws.amazon.com/ec2/spot/instance-advisor/)
