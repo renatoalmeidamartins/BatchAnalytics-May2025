@@ -25,3 +25,4 @@
 - [EMR - DynamoDB connector, link to the GitHub repo in the doc](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/EMRforDynamoDB.html)
 - [S3distcp, version of distcp to load/store data on S3](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/UsingEMR_s3distcp.html)
 - [Optimizing Spark applications](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-spark-performance.html)
+- [Spark configuration parameters](https://spark.apache.org/docs/latest/configuration.html)
