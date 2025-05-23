@@ -29,3 +29,4 @@
 - [Comparing Cassandra to Hbase, keep in mind Cassandra has a fully managed, serverless implementation on AWS, through Keyspaces](https://aws.amazon.com/compare/the-difference-between-cassandra-and-hbase/)
 - [LakeFormation permissions](https://docs.aws.amazon.com/lake-formation/latest/dg/managing-permissions.html)
 - [Integrating EMR with LakeFormation](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-lf-enable.html)
+- [Integrating EMR with Apache Ranger](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-ranger.html)
