@@ -30,3 +30,4 @@
 - [LakeFormation permissions](https://docs.aws.amazon.com/lake-formation/latest/dg/managing-permissions.html)
 - [Integrating EMR with LakeFormation](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-lf-enable.html)
 - [Integrating EMR with Apache Ranger](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-ranger.html)
+- [Encrypting data on EMR](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-data-encryption.html)
