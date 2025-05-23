@@ -24,3 +24,4 @@
 - [Redshift - Spark connector](https://docs.aws.amazon.com/redshift/latest/mgmt/spark-redshift-connector.html)
 - [EMR - DynamoDB connector, link to the GitHub repo in the doc](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/EMRforDynamoDB.html)
 - [S3distcp, version of distcp to load/store data on S3](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/UsingEMR_s3distcp.html)
+- [Optimizing Spark applications](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-spark-performance.html)
