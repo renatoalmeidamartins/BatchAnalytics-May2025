@@ -1,5 +1,9 @@
 # BatchAnalytics-May2025
 
+## My contact details
+- Linkedin -> https://www.linkedin.com/in/renatodealmeidamartins/
+- email: renatoalmeidamartins@gmail.com
+
 ## General links
 - [Skills builder](https://skillbuilder.aws/)
 - [Technical essentials class](https://explore.skillbuilder.aws/learn/courses/1851/aws-technical-essentials)
