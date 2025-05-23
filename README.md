@@ -4,6 +4,12 @@
 - [Skills builder](https://skillbuilder.aws/)
 - [Technical essentials class](https://explore.skillbuilder.aws/learn/courses/1851/aws-technical-essentials)
 
+## Class evaluation
+- Go to [aws.training](https://www.aws.training/)
+- Click sign in, log in with the same account you used to access the lab and course materials
+- Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
+- You should see the class, with a button to evaluate
+
 ## Class and lab links
 - [Acccess to labs and class materials](https://us-east-1.student.classrooms.aws.training/class/ilt%235Te5gPXRwwSKjep633bTGf)
 
