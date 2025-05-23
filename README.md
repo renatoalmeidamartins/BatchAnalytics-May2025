@@ -27,3 +27,5 @@
 - [Optimizing Spark applications](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-spark-performance.html)
 - [Spark configuration parameters](https://spark.apache.org/docs/latest/configuration.html)
 - [Comparing Cassandra to Hbase, keep in mind Cassandra has a fully managed, serverless implementation on AWS, through Keyspaces](https://aws.amazon.com/compare/the-difference-between-cassandra-and-hbase/)
+- [LakeFormation permissions](https://docs.aws.amazon.com/lake-formation/latest/dg/managing-permissions.html)
+- [Integrating EMR with LakeFormation](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-lf-enable.html)
