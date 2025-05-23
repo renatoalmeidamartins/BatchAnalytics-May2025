@@ -12,3 +12,4 @@
 - [Medallion architecture](https://docs.databricks.com/aws/en/lakehouse/medallion)
 - [Database Migration Service (DMS) migration walkthroughs](https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html)
 - [S3 as target for database migrations using DMS](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.S3.html)
+- [AWS Well Architected Framework - Data Analytics Lens](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/analytics-lens.html)
