@@ -19,3 +19,4 @@
 - [Spot instance termination notices](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-instance-termination-notices.html)
 - [EMR instance fleets](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-instance-fleet.html)
 - [EMR-managed scaling](https://docs.aws.amazon.com//emr/latest/ManagementGuide/emr-managed-scaling.html)
+- [EMRFS](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-fs.html)
